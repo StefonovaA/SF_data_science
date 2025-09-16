@@ -20,5 +20,5 @@
 
 ### Подход 3: Мое решение
 Функция game_core_v3(number: int = 1) -> int принимает на вход загаданное число и возвращает число попыток угадывания с помощью подхода бинарного поиска 
-Решение [Стефонова ДЗ 7.1 М8](https://colab.research.google.com/drive/1du2TmgGJfgb06M_60_AvhNvzDkYKNu0L#scrollTo=IvaUUPIe-2fN)
+Решение [Стефонова ДЗ 7.1 М8](https://colab.research.google.com/drive/1du2TmgGJfgb06M_60_AvhNvzDkYKNu0L?usp=sharing)
 
